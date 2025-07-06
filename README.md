@@ -55,7 +55,7 @@ This application provides **personalized nutrition recommendations** by leveragi
 
 | User Input Form                | Nutrition Recommendations              |
 | ------------------------------ | -------------------------------------- |
-| ![Input](https://via.placeholder.com/250x150?text=User+Input) | ![Output](https://via.placeholder.com/250x150?text=Nutrition+Suggestions) |
+| ![Input](https://github.com/user-attachments/assets/c7f5c9ff-6106-4702-abfc-9b069b78f2b8) |![Output](https://github.com/user-attachments/assets/7fb400c6-0e42-4193-8c01-fa057b68eac9) ![](https://github.com/user-attachments/assets/6fb4dafb-4c01-4bec-a9a8-b742337f3b17) ![](https://github.com/user-attachments/assets/20ba2832-1161-4d88-8fd3-ae53d5e85fe1) |
 
 ---
 
