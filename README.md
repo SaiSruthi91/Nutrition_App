@@ -124,5 +124,5 @@ streamlit run app.py
 
 **Sai Sruthi Karnatakapu**  
 📧 [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)  
-🔗 [LinkedIn Profile]((https://www.linkedin.com/in/saisruthikarnatakapu/))  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/saisruthikarnatakapu/)  
 ```
